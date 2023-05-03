@@ -1,2 +1,1 @@
-Momentum_Web <br>
-최종 과제 제출
+바닐라js 공부
