@@ -5,3 +5,16 @@
 img{
     max-width: 100%;
 }
+
+.completed{
+    text-decoration: line-through;
+}
+
+/* .update{ 
+    position: relative;
+}
+.update input{
+    position: absolute;
+    left: 0;
+    top: 0;
+} */
